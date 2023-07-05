@@ -8,7 +8,7 @@ The traditional transport sector is under pressure to change its structure to be
 The dataset is collected reviews of 100 product types of electric scooter and bicycle in the Amazon US.  
 
 ## Content
-The dataset contains the textual reviews for electric scooter and bicycle products.  
+The dataset contains the textual reviews for electric scooter and bicycle products in Amazon.  
 
 ## Reference
 TBD
